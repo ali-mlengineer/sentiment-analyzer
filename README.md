@@ -82,7 +82,7 @@ sentiment-analyzer/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/ali-mlengineer/sentiment-analyzer.git
 ```
 
 ### 2. Install dependencies
